@@ -1,0 +1,7 @@
+#Tue Apr 02 00:24:45 AEDT 2019
+base.0=/Users/zhangyu/Documents/TensorFlow/GattSever/app/build/intermediates/transforms/dexMerger/debug/1
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/zhangyu/Documents/TensorFlow/GattSever/app/build/intermediates/transforms/dexMerger/debug/0
